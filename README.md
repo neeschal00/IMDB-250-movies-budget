@@ -3,7 +3,7 @@ Script that scrapes imdb top 250 movies site asynchronously using python's async
 ## Project:
 To scrape the list of imdb 250 movies list, to get the budget data of each movie.
 
-## Tech/framework used
+## Libraries used
 Ex. -
 
 <b>Built with</b>
