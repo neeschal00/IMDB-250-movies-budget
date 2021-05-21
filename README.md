@@ -11,14 +11,14 @@ Ex. -
 - pandas
 
 ## ScreenShot
-<b>CSV Data Obtained from scraping</b>
+### CSV Data Obtained from scraping
 ![Alt text](/ss/datass.png?raw=true "CSV data obtained")
 
 ### Rating of movies with Year
 ![Alt text](/ss/ratingbudget.png?raw=true "Rating Based on Year")
 
-<b>Budget of movie with rating(i.e. in different century)</b>
+### Budget of movie with rating(i.e. in different century)
 ![Alt text](/ss/ratingyear.png?raw=true "Budget based on rating of movie")
 
-<b>Average Budget of movies</b>
+### Average Budget of movies
 ![Alt text](/ss/barchart.png?raw=true "Average budget of movies")
