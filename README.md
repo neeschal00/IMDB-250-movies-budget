@@ -14,7 +14,7 @@ Ex. -
 <b>CSV Data Obtained from scraping</b>
 ![Alt text](/ss/datass.png?raw=true "CSV data obtained")
 
-<b>Rating of movies with Year</b>
+### Rating of movies with Year
 ![Alt text](/ss/ratingbudget.png?raw=true "Rating Based on Year")
 
 <b>Budget of movie with rating(i.e. in different century)</b>
