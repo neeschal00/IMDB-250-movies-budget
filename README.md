@@ -14,6 +14,9 @@ Ex. -
 ### CSV Data Obtained from scraping
 ![Alt text](/ss/datass.png?raw=true "CSV data obtained")
 
+### Data viewed in pandas
+![Alt text](/ss/pddata.png?raw=true "Data viewed in pandas")
+
 ### Rating of movies with Year
 ![Alt text](/ss/ratingbudget.png?raw=true "Rating Based on Year")
 
